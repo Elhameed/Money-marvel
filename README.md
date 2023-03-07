@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-![Screenshot of the GUI app](screenshot.png)
+![Screenshot of the GUI app](screenshot.PNG)
