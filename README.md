@@ -35,10 +35,6 @@ Here are some similar projects that you might find useful:
 * [Personal Capital](https://www.personalcapital.com/)
 * [YNAB (You Need a Budget)](https://www.youneedabudget.com/)
 
-## Licensing
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
 
 ![Screenshot of the GUI app](screenshot.PNG)
